@@ -1,5 +1,5 @@
 name: first ci/cd
-
+on: [push]
 
 jobs:
   check-bats-version:
